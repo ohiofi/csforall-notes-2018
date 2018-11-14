@@ -49,7 +49,7 @@ Talk to Bandow about "CS Teacher work day" - End of January "full" day PD with E
 
 Talk to Mark Tremayne about holding a "CS Meetup" at the Hub, end of January 5-6pm with teachers, students, parents, CS business leaders. 12 speakers, 3-4min each.
 
-A librarian at Worthington Library offers summer coding activities in Scratch, would Hilliard Branch be interested in offering something similar? Presented by Hayden Mankin? 
+A librarian at Worthington Library offers summer coding activities in Scratch, would Hilliard Branch be interested in offering something similar? Presented by Hayden Mankin?
 
 Lisa Chambers, Tech Corps (3rd-12th)
 Stephen Dackin, CSCC
@@ -62,16 +62,12 @@ Lena Furci, The Her Academy
 Renee Snyder, Teaching and Learning Collaborative
 Hannah Goldman, Girls Who Code
 
-Tech Corps - 
+Tech Corps -
 Free elem teacher workshop during CS Ed Week using AR & VR
-TANF elligable kids in Franklin 9th-12th 15-week program 
+TANF elligable kids in Franklin 9th-12th 15-week program
 Senior students Per Scholus IT training
 Free summer workshops for kids
 
 "Think big, start small, scale fast"
 
-
-
-
-
-
+Contact info / Networking doc: https://docs.google.com/spreadsheets/d/1wbmwJvqsgUcodIuENdryjiRUvIHPw0jyEStZ7grrEtY/edit#gid=0
