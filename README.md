@@ -55,7 +55,7 @@ Talk to Mark Tremayne about holding a "CS Meetup" at the Hub, end of January 5-6
 
 A librarian at Worthington Library offers summer coding activities in Scratch, would Hilliard Branch be interested in offering something similar? Presented by a group of HS students? Hayden Mankin?
 
-- Lisa Chambers, Tech Corps (3rd-12th)
+- Lisa Chambers, Tech Corps (3rd-12th) <http://techcorps.org/content/tech-corps-hack-2018>
 - Stephen Dackin, CSCC
 - Kelly Gaier Evans, STEM Relationship Manager for Battelle
 - Katie Hendrickson, Code.org
