@@ -57,14 +57,14 @@ A librarian at Worthington Library offers summer coding activities in Scratch, w
 
 - Lisa Chambers, Tech Corps (3rd-12th) <http://techcorps.org/content/tech-corps-hack-2018>
 - Stephen Dackin, CSCC
-- Kelly Gaier Evans, STEM Relationship Manager for Battelle
+- Kelly Gaier Evans, STEM Relationship Manager for Battelle gaierk@battelle.org
 - Katie Hendrickson, Code.org
 - Eva Bradshaw, NCWIT National Center for Women & IT
-- Crystal M. Franklin, CSforCLE
+- Crystal M. Franklin, CSforCLE <https://www.csuohio.edu/csforcle/csforcle>
 - Nicole Beeman-Cadwallader, National Math and Science Initiative
-- Lena Furci, The Her Academy
-- Renee Snyder, Teaching and Learning Collaborative
-- Hannah Goldman, Girls Who Code
+- Lena Furci, The Her Academy <https://theheracademy.org/>
+- Renee Snyder, Teaching and Learning Collaborative <http://www.teachinglearningcollaborative.org/>
+- Hannah Goldman, Girls Who Code <https://girlswhocode.com/>
 
 Tech Corps -
 - Free elem teacher workshop during CS Ed Week using AR & VR
